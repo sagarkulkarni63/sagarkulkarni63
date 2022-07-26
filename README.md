@@ -2,7 +2,6 @@
 
 I'm a 2022 EE undergrad. Currently, I'm learning the fundamentals of full stack development in Django. I'm skilled at Python. I have also completed an internship at an early stage startup where I developed a mobile application using React Native.
 
-[![trophy](https://github-profile-trophy.vercel.app/sagarkulkarni63=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **sagarkulkarni63/sagarkulkarni63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
