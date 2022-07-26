@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with JavaScript and React
 - 💬 Ask me about Python and DSA
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sagar-kulkarni-275a3a183/)
-- ⚡ Fun fact: "There is a tremendous amount of craftsmanship between a great idea and a great product"
+- ⚡ Fun fact: "There is a tremendous amount of craftsmanship between a great idea and a great                     product"
 
