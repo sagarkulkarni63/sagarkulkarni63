@@ -14,6 +14,6 @@ Apart from solving complex circuits:
 - 🤔 I’m looking for help with JavaScript and React
 - 💬 Ask me about Python and DSA
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sagar-kulkarni-275a3a183/)
-- ⚡ Fun fact: "There is a tremendous amount of craftsmanship between a great idea and a great                     product"
+- ⚡ Fun fact: "There is a tremendous amount of craftsmanship between a great idea and a great product"
 
 ### Languages and Tools:
