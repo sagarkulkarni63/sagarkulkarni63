@@ -6,7 +6,7 @@ I'm a 2022 EE undergrad. Currently, I'm learning the fundamentals of full stack 
 <!--
 **sagarkulkarni63/sagarkulkarni63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+Apart from solving complex circuits:
 
 - 🔭 I’m currently working on Web Development using Django.
 - 🌱 I’m currently learning DSA, React
