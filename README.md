@@ -9,9 +9,9 @@ I'm a backend dev.
 Apart from solving complex circuits:
 
 - 🔭 I’m currently working on Backend project using Node
-- 🌱 I’m learning DSA, React
+- 🌱 I’m learning React
 - 👯 I’m looking to collaborate on amazing Projects and Hackathons
-- 🤔 I’m looking for help with AWS
+- 🤔 I’m looking for help with Rust
 - 💬 Ask me about JavaScript and Express
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sagar-kulkarni-275a3a183/)
 - ⚡ Fun fact: "There is a tremendous amount of craftsmanship between a great idea and a great product"
