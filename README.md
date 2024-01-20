@@ -8,11 +8,11 @@ I'm a backend dev.
 
 Apart from solving complex circuits:
 
-- 🔭 I’m currently working on Backend project using Node
-- 🌱 I’m learning React
+- 🔭 I’m currently working on Backend projects based on Node and FastAPI
+- 🌱 I’m learning Rust
 - 👯 I’m looking to collaborate on amazing Projects and Hackathons
-- 🤔 I’m looking for help with Rust
-- 💬 Ask me about JavaScript and Express
+- 🤔 I’m looking for help with with LLM Content Validation
+- 💬 Ask me about Applied AI
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sagar-kulkarni-275a3a183/)
 - ⚡ Fun fact: "There is a tremendous amount of craftsmanship between a great idea and a great product"
 
